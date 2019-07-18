@@ -14,7 +14,6 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-    <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
   </properties>
 
   <modules>
